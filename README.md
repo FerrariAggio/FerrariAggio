@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Lorenzo Ferrari Aggio</h1>
-<h3 align="center">A systems development technician and Information Systems student at Inteli</h3>
+<p align="center">
+  <img src="https://github.com/ferrariaggio/ferrariaggio/raw/main/assets/header_gif.gif" alt="Hi, I'm Lorenzo">
+</p>
 
 - 🔭 I'm currently focusing on my degree
 - 📫 How to reach me **loferrariaggio@gmail.com**
