@@ -1,8 +1,15 @@
 <p align="center">
   <img src="https://github.com/ferrariaggio/ferrariaggio/raw/main/assets/header_gif.gif" alt="Hi, I'm Lorenzo">
 </p>
+<hr>
 
-- 🔭 I'm currently focusing on my degree
+Hi everyone, my name is Lorenzo Ferrari, I'm 18 years old and I'm from São Paulo, Brazil. I'm currently a student at the Institute of Technology and Leadership (Inteli) and also a systems development technician. I'm a very committed and curious person, so every day I seek to learn more about technology and acquire new knowledge.
+
+<h3> A litle more about me: </h3>
+
+- 🧑‍🍳 I really like gastronomy
+- 🎮 I'm fascinated by video games
+- 🌍 I love studying and learning about geopolitics
 - 📫 How to reach me **loferrariaggio@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
