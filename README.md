@@ -14,7 +14,7 @@ Hi everyone, my name is Lorenzo Ferrari, I'm 18 years old and I'm from São Paul
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lorenzo ferrari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lorenzo ferrari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lorenzo-ferrari-12a81a2b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lorenzo ferrari" height="30" width="40" /></a>
 <a href="https://instagram.com/ferrari_aggio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ferrari_aggio" height="30" width="40" /></a>
 </p>
 
